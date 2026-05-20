@@ -1,0 +1,20 @@
+{
+  "DICOM_HEADER": {
+    "0010,0010_PatientName": "SMITH, JANE",
+    "0010,0020_PatientID": "999888",
+    "0008,0050_AccessionNumber": "ORD12345",
+    "0008,0060_Modality": "DX"
+  },
+  "RAW_PIXEL_DATA": [
+    16,
+    42,
+    110,
+    255,
+    255,
+    180,
+    90,
+    12,
+    0,
+    4
+  ]
+}
